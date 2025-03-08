@@ -1,0 +1,906 @@
+[2025-03-08 18:48:48] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:48:49] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:48:52] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:49:01] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:49:28] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:01] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:02] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:05] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:14] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:32] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : stream-production.avcdn.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:32] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : stream-production.avcdn.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:41] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:44] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:44] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:44] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:44] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:44] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:50:44] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:02] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:03] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:06] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:10] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:10] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:10] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:10] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:11] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:11] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:11] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:11] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:15] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:32] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:32] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:33] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:33] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:33] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:33] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:42] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:48] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:48] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:48] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:48] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:48] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:51:48] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:13] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:14] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:15] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:15] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:15] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:52:15] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:15] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:15] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:17] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:26] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:33] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:52:33] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:33] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:52:33] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:33] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:33] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:52] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : e28622.a.akamaiedge.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:53] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : youtube-ui.l.google.com.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:53] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : youtube-ui.l.google.com.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:52:53] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:03] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:53:03] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:03] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:53:04] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:04] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:04] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:05] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:31] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:53:31] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:31] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:53:32] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:32] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:32] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:32] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : stream-production.avcdn.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:32] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : stream-production.avcdn.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:38] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:39] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:53:42] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:29] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:33] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : stream-production.avcdn.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:33] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : stream-production.avcdn.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:45] 192.168.1.173 -> 23.37.160.230
+Requête : HTTP
+Domaine/URL : tile-service.weather.microsoft.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:45] 23.37.160.230 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:52] 192.168.1.173 -> 195.23.56.83
+Requête : HTTP
+Domaine/URL : ctldl.windowsupdate.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:52] 195.23.56.83 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:52] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 192.168.1.173 -> 2.16.38.4
+Requête : HTTP
+Domaine/URL : crl3.digicert.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 2.16.38.4 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 192.168.1.173 -> 216.58.209.67
+Requête : HTTP
+Domaine/URL : c.pki.goog
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 216.58.209.67 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:53] 192.168.1.173 -> 216.58.209.67
+Requête : HTTP
+Domaine/URL : c.pki.goog
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:54] 216.58.209.67 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:54] 192.168.1.173 -> 2.16.38.4
+Requête : HTTP
+Domaine/URL : crl3.digicert.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:56:54] 2.16.38.4 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:02] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:03] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:06] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:10] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:11] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:15] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:32] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:32] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:32] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:32] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:33] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:33] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:39] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:39] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:39] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:39] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:39] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:39] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:42] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:59] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:59] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:57:59] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:00] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:00] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:00] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:00] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:00] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:02] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:03] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:06] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:12] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:58:12] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:12] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:58:12] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:12] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:12] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:15] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:35] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:58:35] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:35] 192.168.1.173 -> 34.107.221.82
+Requête : HTTP
+Domaine/URL : detectportal.firefox.com
+Statut : ANORMAL
+Explication : Nombre de requêtes anormalement élevé vers detectportal.firefox.com
+
+[2025-03-08 18:58:35] 34.107.221.82 -> 192.168.1.173
+Requête : HTTP
+Domaine/URL : UNKNOWN
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:35] 192.168.1.173 -> 192.168.1.1
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:35] 192.168.1.1 -> 192.168.1.173
+Requête : DNS
+Domaine/URL : perfopsrum3.akamaized.net.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:42] 192.168.1.138 -> 224.0.0.251
+Requête : DNS
+Domaine/URL : _companion-link._tcp.local.
+Statut : NORMAL
+Explication : Aucune anomalie détectée
+
+[2025-03-08 18:58:50] 192.168.1.173 -> 192.168.1.1
+Requête : FTP
+Domaine/URL : FTP Request
+Statut : ANORMAL
+Explication : Connexion FTP détectée, commande USER suivie de PASS
+
