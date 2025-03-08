@@ -104,11 +104,11 @@ Domaine/URL : login.example.com
 Statut : ANORMAL
 Explication : URL suspecte contenant un mot-clé sensible
 
-[2025-03-08 18:33:10] 192.168.1.173 -> 192.168.1.1
+[2025-03-08 18:58:50] 192.168.1.173 -> 192.168.1.1
 Requête : FTP
 Domaine/URL : FTP Request
 Statut : ANORMAL
-Explication : Connexion FTP détectée, potentiellement risquée
+Explication : Connexion FTP détectée, commande USER suivie de PASS
 ```
 
 ## Remarques
